@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Coffee Shop API 
 
 #ru
@@ -100,3 +101,6 @@ To add products to carts and orders, I created a new model called CartItem . It 
 
 #eng  
 Also, in http://127.0.0.1:8000/app/cart/create/ you don’t need to add any fields, the system itself creates carts when you press the POST button
+=======
+# Internship
+>>>>>>> b8cfa25ba17b2c0b5420f3890ae72299bbae188b
